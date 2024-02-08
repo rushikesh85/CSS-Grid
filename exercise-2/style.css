@@ -15,7 +15,8 @@
 .firstSection,
 .secondSection,
 .thirdSection {
-    margin-left: 140px;
+    /* margin-left: 140px; */
+    margin: 0 auto;
     width: 80%;
     display: grid;
     gap: 10px;
